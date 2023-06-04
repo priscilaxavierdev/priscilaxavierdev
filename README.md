@@ -31,11 +31,11 @@
    
 ##
    
-<p>Olá, eu sou a Pri, tenho 18 anos e estou no começo da minha jornada na Tecnologia, me permitindo a conhecer aos poucos o que esse mundo que tem a oferecer.
+<p>Olá, eu sou a Pri, tenho 18 anos e estou no começo da minha jornada na Tecnologia, me permitindo explorar a infinidade de possiblidades que essa ára tem a oferecer.
 
 Falando rapidamente de estudos mais efetivos o curso do Intituto PROA tem muita responsabilidade  nisso, está me dando todo suporte e oportunidade para esse início da carreira em TI.
  
- Agora falando bem do início do meu interesse por desenvolvimento web. Esse interesse e curiosidade se deu início no começo de 2022. Quando despertou a vontade de querer entender como são criados os sites e aplicativos que vemos hoje em dia. Entretanto sempre tive mais interesse sobre como era feito o Desenvolvimento Bak-End e desde então sigo buscando me especializar nessa área no qual é a que quero trabalhar.</p>
+ Agora falando bem do início do meu interesse por Desenvolvimento em si. Esse interesse e curiosidade se deu início no começo do ano de 2022. Quando despertou a vontade de querer entender como são criados os sites e aplicativos que vemos hoje em dia. Entretanto sempre tive mais interesse sobre como era feito o Desenvolvimento Back-End e desde então sigo buscando me especializar nessa área no qual é a que quero trabalhar.</p>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE&section=footer" />
   
