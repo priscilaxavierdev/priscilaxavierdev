@@ -27,7 +27,6 @@
     <a href="https://www.linkedin.com/in/priscilaxavierdev/" target="_blank"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href = "mailto:priscilaxavier672@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  ![Snake Game](https://github.com/priscilaxavierdev/priscilaxavierdev/blob/output/github-contribution-grid-snake.svg)
 
    
 ##
