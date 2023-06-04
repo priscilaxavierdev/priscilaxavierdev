@@ -37,7 +37,7 @@ Falando rapidamente de estudos mais efetivos o curso do Intituto PROA tem muita 
  
  Agora falando bem do início do meu interesse por desenvolvimento web. Esse interesse e curiosidade se deu início no começo de 2022. Quando despertou a vontade de querer entender como são criados os sites e aplicativos que vemos hoje em dia. Entretanto sempre tive mais interesse sobre como era feito o Desenvolvimento Bak-End e desde então sigo buscando me especializar nessa área no qual é a que quero trabalhar.
   
-Falando um pouco das tecnologias em si, neste momento estou dando foco nos meus estudos principalmente em Java, Banco de Dados MySQL e criação de API´s, mas já pude ser introduzida a JavaScript, ReactJS, HTML5 e CSS3 pelo Instituto PROA</p>
+Falando um pouco das tecnologias em si, neste momento estou dando foco nos meus estudos principalmente em Java, Banco de Dados MySQL e criação de API's, mas já pude ser introduzida a JavaScript, ReactJS, HTML5 e CSS3 pelo Instituto PROA.</p>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE&section=footer" />
   
