@@ -31,11 +31,11 @@
    
 ##
    
-<p>Olá, eu sou a Pri, tenho 18 anos e estou no começo da minha jornada na Tecnologia, me permitindo explorar a infinidade de possiblidades que essa ára tem a oferecer.
+<p>Olá, eu sou a Priscila, tenho 19 anos e estou no começo da minha jornada na Tecnologia.
 
-Falando rapidamente de estudos mais efetivos o curso do Instituto PROA tem muita responsabilidade  nisso, está me dando todo suporte e oportunidade para esse início da carreira em TI.
+No 1° semestre de 2023 fui contemplada com a oportunidade de cursar Desenvolvimento Full Stack com foco em Java no Instituto PROA, onde pude desempenhar atividades que abordam tecnologias do Front-End como no Back-End. Além disso pude atuar como Scrum Master e Dev Full Stack no projeto de conclusão de curso que foi a AMEI.ltda.
  
- Agora falando bem do início do meu interesse por Desenvolvimento em si. Esse interesse e curiosidade se deu início no ano de 2022. Quando despertou a vontade de querer entender como são criados os sites e aplicativos que vemos hoje em dia. Entretanto sempre tive mais interesse sobre como era feito o Desenvolvimento Back-End e desde então sigo buscando me especializar nessa área na qual é a que quero trabalhar.</p>
+ Atualmente estou cursando o Tecnólogo Análise e Desenvolvimento de Sistemas na Universidade de Santo Amaro e em busca de um estágio para começar no mercado de trabalho em TI.</p>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE&section=footer" />
   
