@@ -33,7 +33,10 @@
    
 <p>Olá, eu sou a Priscila, tenho 19 anos e estou no começo da minha jornada na Tecnologia.
 
-No 1° semestre de 2023 fui contemplada com a oportunidade de cursar Desenvolvimento Full Stack com foco em Java no Instituto PROA, onde pude desempenhar atividades que abordam tecnologias do Front-End como no Back-End. Além disso pude atuar como Scrum Master e Dev Full Stack no projeto de conclusão de curso que foi a AMEI.ltda.
+No 1° semestre de 2023 fui contemplada com a oportunidade de cursar Desenvolvimento Full Stack com foco em Java no Instituto PROA, onde pude desempenhar atividades que abordam tecnologias do Front-End como no Back-End. Além disso pude atuar como Scrum Master e Dev Full Stack no projeto de conclusão de curso que foi a  empresa AMEI.ltda.
+Para mais informações sobre a AMEI,
+Acesse o [linktree do projeto](https://linktr.ee/amei.ltda).
+
  
  Atualmente estou cursando o Tecnólogo Análise e Desenvolvimento de Sistemas na Universidade de Santo Amaro e em busca de um estágio para começar no mercado de trabalho em TI.</p>
   
