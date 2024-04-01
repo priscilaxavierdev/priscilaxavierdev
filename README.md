@@ -35,7 +35,7 @@ Para conhecer a AMEI.ltda,
 acesse o [linktree do projeto](https://linktr.ee/amei.ltda).
 
  
- Atualmente estou cursando o Tecnólogo Análise e Desenvolvimento de Sistemas na Universidade de Santo Amaro e em busca de um estágio para começar no mercado de trabalho em TI.</p>
+ Atualmente estou no 2 Semestre do curso de Análise e Desenvolvimento de Sistemas na UNISA e em busca de um estágio na área de TI para aprimorar as minhas habilidades.</p>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE&section=footer" />
   
