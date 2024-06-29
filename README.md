@@ -28,7 +28,7 @@
    
 ##
    
-<p>Olá, sou Priscila, estudante de Análise e Desenvolvimento de Sistemas na Unisa, em busca de estágio em Desenvolvimento, especialmente Back-End. 
+<p>Olá, sou a Priscila, estudante de Análise e Desenvolvimento de Sistemas na Unisa, em busca de estágio em Desenvolvimento, especialmente Back-End, mas tenho disposição de me desenvolver em outras área dentro da TI também!
   
   Concluí o curso de Programação Web Java pelo Instituto PROA/Senac SP em 2023, onde desenvolvi habilidades em comunicação, resolução de problemas e trabalho em equipe e metodologia Scrum. Participei de projetos como um Sistema de Hotel (JavaScript), Banco de Dados para Hospital Fictício (MySQL) e Clone do Instagram (ReactJS). 
   Além disso pude atuar como Scrum Master e Dev Full Stack no projeto de conclusão de curso que foi a  empresa AMEI.ltda ([linktree do projeto](https://linktr.ee/amei.ltda)).
