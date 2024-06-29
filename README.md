@@ -28,13 +28,10 @@
    
 ##
    
-<p>Olá, eu sou a Priscila, tenho 19 anos e estou no começo da minha jornada na Tecnologia.
-
-No 1° semestre de 2023 fui contemplada com a oportunidade de cursar Desenvolvimento Full Stack com foco em Java no Instituto PROA, onde pude desempenhar atividades que abordam tecnologias do Front-End como no Back-End. Além disso pude atuar como Scrum Master e Dev Full Stack no projeto de conclusão de curso que foi a  empresa AMEI.ltda ([linktree do projeto](https://linktr.ee/amei.ltda)).
-
-
- 
- Atualmente estou no 2 Semestre do curso de Análise e Desenvolvimento de Sistemas na UNISA e em busca de um estágio na área de TI para aprimorar as minhas habilidades.</p>
+<p>Olá, sou Priscila, estudante de Análise e Desenvolvimento de Sistemas na Unisa, em busca de estágio em Desenvolvimento, especialmente Back-End. 
+  Concluí o curso de Programação Web Java pelo Instituto PROA/Senac SP em 2023, onde desenvolvi habilidades em comunicação, resolução de problemas e trabalho em equipe e metodologia Scrum. Participei de projetos como um Sistema de Hotel (JavaScript), Banco de Dados para Hospital Fictício (MySQL) e Clone do Instagram (ReactJS). 
+  Além disso pude atuar como Scrum Master e Dev Full Stack no projeto de conclusão de curso que foi a  empresa AMEI.ltda ([linktree do projeto](https://linktr.ee/amei.ltda)).
+  Atualmente, foco em aprofundar meus conhecimentos em Back-End com Java, estudando Maven, Pipelines e Rest APIs.</p>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE&section=footer" />
   
