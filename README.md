@@ -2,7 +2,7 @@
 <div align=center>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE" />
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=706ADE&size=35&center=true&vCenter=true&width=1000&lines=Olá+Eu+Sou+a+Priscila+Xavier;Seja+Bem-Vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=706ADE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Priscila+Xavier.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priscilaxavierdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -71,10 +71,7 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/priscilaxavierdev/priscilaxavierdev/output/snake.iml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/priscilaxavierdev/priscilaxavierdev/output/snake.svg" alt="Snake animation" />
 ###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE&section=footer" />
-
-
 ###
