@@ -66,6 +66,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/priscilaxavierdev/priscilaxavierdev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/priscilaxavierdev/priscilaxavierdev/output/snake.iml" alt="Snake animation" />
 
 ###
