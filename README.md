@@ -72,6 +72,5 @@
 
 ###
 <img src="https://raw.githubusercontent.com/priscilaxavierdev/priscilaxavierdev/output/snake.svg" alt="Snake animation" />
-###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE&section=footer" />
 ###
