@@ -1,9 +1,4 @@
-<div align=center>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE" />
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=706ADE&size=35&center=true&vCenter=true&width=1000&lines=Olá+Eu+Sou+a+Priscila+Xavier;Seja+Bem-Vindo!)](https://git.io/typing-svg)
-
- <div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priscilaxavierdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priscilaxavierdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -74,15 +69,3 @@
 <img src="https://raw.githubusercontent.com/priscilaxavierdev/priscilaxavierdev/output/snake.svg" alt="Snake animation" />
 
 ###
- <div>  
-##   
-<p>Olá, sou a Priscila, estudante de Análise e Desenvolvimento de Sistemas na Unisa, em busca de estágio em Desenvolvimento, especialmente Back-End, mas tenho disposição de me desenvolver em outras área dentro da TI também!
-  
-  Concluí o curso de Programação Web Java pelo Instituto PROA/Senac SP em 2023, onde desenvolvi habilidades em comunicação, resolução de problemas e trabalho em equipe e metodologia Scrum. Participei de projetos como um Sistema de Hotel (JavaScript), Banco de Dados para Hospital Fictício (MySQL) e Clone do Instagram (ReactJS). 
-  Além disso pude atuar como Scrum Master e Dev Full Stack no projeto de conclusão de curso que foi a  empresa AMEI.ltda ([linktree do projeto](https://linktr.ee/amei.ltda)).
-  
-  Atualmente, foco em aprofundar meus conhecimentos em Back-End com Java, estudando conceitos como Maven, Pipelines e Rest APIs.</p>
-  
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE&section=footer" />
-  
-</div>
