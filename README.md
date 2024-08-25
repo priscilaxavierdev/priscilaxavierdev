@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Priscila Xavier from São Paulo, Brazil.<br><br>- 🔭 I’m working as  a Strategic Operations Planning Young Apprentice at Verisure, where I analyze and update reports using Excel and tools like SAP.<br>- 📚 I'm currently learning  Back-End development with Java, focusing on Maven, Pipelines, and Rest APIs.<br>- ⚡ In my free time I enjoy watching movies and series, studying software development, and exploring topics in technology that pique my curiosity.</p>
+<p align="left">I'm Priscila Xavier from São Paulo, Brazil.<br><br>- 🔭 I’m working as  a Strategic Operations Planning Young Apprentice, where I analyze and update reports using Excel and tools like SAP.<br>- 📚 I'm currently learning  Back-End development with Java, focusing on Maven, Pipelines, and Rest APIs.<br>- ⚡ In my free time I enjoy watching movies and series, studying software development, and exploring topics in technology that pique my curiosity.</p>
 
 ###
 
