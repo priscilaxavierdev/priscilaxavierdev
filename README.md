@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Olá, sou Priscila moro em São Paulo, Brasil.<br><br>- 🔭 Recentemente finalizei meu contrato de aprendizagem em Planejamento Estratégico de Operações, onde analisava e atualizava relatórios utilizando Excel e SAP.<br>- 📚 Atualmente, estou aprendendo desenvolvimento Back-End com Java, focando em Maven, Spring Boot e APIs REST.<br>- ⚡ Nos meus momentos livres, gosto de assistir filmes, explorar novos temas de tecnologia e aprofundar meus conhecimentos em desenvolvimento de software..</p>
+<p align="left">Olá, sou Priscila moro em São Paulo, Brasil.<br><br>- 🔭 Recentemente finalizei meu contrato de aprendizagem em Planejamento Estratégico de Operações, onde analisava e atualizava relatórios utilizando Excel e SAP.<br>- 📚 Atualmente, estou aprendendo desenvolvimento Back-End com Java, focando em Maven, Spring Boot e APIs REST.<br>- ⚡ No meu tempo livre, gosto de assistir filmes, ler livros, pesquisar novos temas de tecnologia e aprofundar meus conhecimentos em desenvolvimento de software..</p>
 
 ###
 
