@@ -1,11 +1,11 @@
 <div align=center>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE" />
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=706ADE&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Priscila+Xavier.;Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=706ADE&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Priscila+Xavier.;Bem-vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priscilaxavierdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priscilaxavierdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=priscilaxavierdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priscilaxavierdev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -35,11 +35,11 @@
 
 ###
 
-<p align="left">Olá, sou Priscila moro em São Paulo, Brasil.<br><br>- 🔭 Recentemente finalizei meu contrato de aprendizagem em Planejamento Estratégico de Operações, onde analisava e atualizava relatórios utilizando Excel e SAP.<br>- 📚 Atualmente, estou aprendendo desenvolvimento Back-End com Java, focando em Maven, Spring Boot e APIs REST.<br>- ⚡ No meu tempo livre, gosto de assistir filmes, ler livros, pesquisar novos temas de tecnologia e aprofundar meus conhecimentos em desenvolvimento de software..</p>
+<p align="left">Olá, sou Priscila e moro em São Paulo, Brasil.<br><br>- 🔭 Recentemente finalizei meu contrato de aprendizagem em Planejamento Estratégico de Operações, onde analisava e atualizava relatórios utilizando Excel e SAP.<br>- 📚 Atualmente, estou aprendendo desenvolvimento Back-End com Java, focando em Maven, Spring Boot e APIs REST.<br>- ⚡ No meu tempo livre, gosto de assistir filmes, ler livros, pesquisar novos temas de tecnologia e aprofundar meus conhecimentos em desenvolvimento de software.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
@@ -57,13 +57,14 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My status :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=priscilaxavierdev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=priscilaxavierdev&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=706ADE&section=footer" />
