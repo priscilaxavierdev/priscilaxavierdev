@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Priscila Xavier from São Paulo, Brazil.<br><br>- 🔭 I’m working as  a Strategic Operations Planning Young Apprentice, where I analyze and update reports using Excel and tools like SAP.<br>- 📚 I'm currently learning  Back-End development with Java, focusing on Maven, Springboot, and Rest APIs.<br>- ⚡ In my free time I enjoy watching movies and series, studying software development, and exploring topics in technology that pique my curiosity.</p>
+<p align="left">Olá, sou Priscila Xavier de São Paulo, Brasil.<br><br>- 🔭 Recentemente finalizei meu contrato de aprendizagem em Planejamento Estratégico de Operações, onde analisava e atualizava relatórios utilizando Excel e SAP.<br>- 📚 Atualmente, estou aprendendo desenvolvimento Back-End com Java, focando em Maven, Spring Boot e APIs REST.<br>- ⚡ Nos meus momentos livres, gosto de assistir filmes, explorar novos temas de tecnologia e aprofundar meus conhecimentos em desenvolvimento de software..</p>
 
 ###
 
